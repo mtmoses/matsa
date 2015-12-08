@@ -1,4 +1,4 @@
-# matsa_discovery
+# matsa
 a Go Language library that includes collections, statistics, sets, and linear algebra.
 
 This was created to fill the need to have a way to calculate and manipulate lists (Go Slices) with chaining capability. The library includes:
