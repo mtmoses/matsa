@@ -61,6 +61,8 @@ This was created to fill the need to have a way to calculate and manipulate list
 <li>ShellSort</li>
 </ul>
 
+<hr>
+
 Copyright 2015 Todd Moses
 
 Licensed under the Apache License, Version 2.0 (the "License");
